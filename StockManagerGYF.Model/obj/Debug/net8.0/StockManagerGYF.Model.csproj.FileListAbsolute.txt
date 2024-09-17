@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\bin\Debug\net8.0\StockManagerGYF.Model.deps.json
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\bin\Debug\net8.0\StockManagerGYF.Model.dll
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\bin\Debug\net8.0\StockManagerGYF.Model.pdb
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\StockManagerGYF.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\StockManagerGYF.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\StockManagerGYF.Model.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\StockManagerGYF.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\StockManagerGYF.Model.dll
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\refint\StockManagerGYF.Model.dll
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\StockManagerGYF.Model.pdb
+C:\Users\DELL\source\repos\StockManagerGYF\StockManagerGYF.Model\obj\Debug\net8.0\ref\StockManagerGYF.Model.dll
