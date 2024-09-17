@@ -1,5 +1,6 @@
 .vs/
-.StockManagerGYF.Data/.bin/
-.StockManagerGYF.Model/.bin
-.StockManagerGYF/.bin
+StockManagerGYF.Data/bin/
+StockManagerGYF.Model/bin
+StockManagerGYF/bin
+StockManagerGYF/obj
 
