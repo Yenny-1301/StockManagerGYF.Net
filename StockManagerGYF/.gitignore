@@ -1,1 +1,5 @@
-.vs/StockManagerGYF/FileContentIndex/
+.vs/
+.StockManagerGYF.Data/.bin/Debug/net8.0
+.StockManagerGYF.Model/.bin/Debug/net8.0
+.StockManagerGYF/.bin/Debug/net8.0
+

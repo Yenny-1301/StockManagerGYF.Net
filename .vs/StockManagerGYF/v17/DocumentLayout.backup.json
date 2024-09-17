@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D66D410E-3DEC-4242-98CE-5051E45787A4}|StockManagerGYF.Data\\StockManagerGYF.Data.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D66D410E-3DEC-4242-98CE-5051E45787A4}|StockManagerGYF.Data\\StockManagerGYF.Data.csproj|solutionrelative:stockmanagergyf.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\dtos\\productosporcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\dtos\\productosporcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D66D410E-3DEC-4242-98CE-5051E45787A4}|StockManagerGYF.Data\\StockManagerGYF.Data.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D66D410E-3DEC-4242-98CE-5051E45787A4}|StockManagerGYF.Data\\StockManagerGYF.Data.csproj|solutionrelative:stockmanagergyf.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{028F15F7-23EA-4BAC-8E06-4413463F8350}|StockManagerGYF.Model\\StockManagerGYF.Model.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{028F15F7-23EA-4BAC-8E06-4413463F8350}|StockManagerGYF.Model\\StockManagerGYF.Model.csproj|solutionrelative:stockmanagergyf.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|c:\\users\\dell\\source\\repos\\stockmanagergyf\\stockmanagergyf\\stockmanagergyf.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{654E7A0D-09CE-4AAC-8A97-720BA0589C83}|StockManagerGYF\\StockManagerGYF.csproj|solutionrelative:stockmanagergyf\\stockmanagergyf.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,115 +17,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 63,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 88,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF.Data\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF.Data\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF.Data\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "StockManagerGYF.Data\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T01:34:38.375Z",
+              "Title": "StockManagerGYF.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\StockManagerGYF.http",
+              "RelativeDocumentMoniker": "StockManagerGYF\\StockManagerGYF.http",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\StockManagerGYF.http",
+              "RelativeToolTip": "StockManagerGYF\\StockManagerGYF.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-17T15:45:13.218Z",
               "EditorCaption": ""
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF\\DTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "StockManagerGYF\\DTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:37:57.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\Program.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\Program.cs",
-              "RelativeToolTip": "StockManagerGYF\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T03:13:16.693Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 140,
-          "SelectedChildIndex": 0,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "StockManagerGYF\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:56:27.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductosPorCategoriaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\DTOs\\ProductosPorCategoriaDTO.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF\\DTOs\\ProductosPorCategoriaDTO.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\DTOs\\ProductosPorCategoriaDTO.cs",
-              "RelativeToolTip": "StockManagerGYF\\DTOs\\ProductosPorCategoriaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:56:24.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF.Data\\Repositories\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF.Data\\Repositories\\ProductoRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF.Data\\Repositories\\ProductoRepository.cs",
-              "RelativeToolTip": "StockManagerGYF.Data\\Repositories\\ProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:55:04.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF.Model\\Producto.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF.Model\\Producto.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF.Model\\Producto.cs",
-              "RelativeToolTip": "StockManagerGYF.Model\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:54:47.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "StockManagerGYF\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "StockManagerGYF\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T04:33:08.687Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\.gitignore",
+              "RelativeDocumentMoniker": "StockManagerGYF\\.gitignore",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\StockManagerGYF\\StockManagerGYF\\.gitignore",
+              "RelativeToolTip": "StockManagerGYF\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-17T15:44:47.015Z",
               "EditorCaption": ""
             }
           ]
